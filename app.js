@@ -51,7 +51,136 @@
 // // // Step:-1.) First of all open the VS CODE TERMINAL :-
 // // // Step:-2.) Write the command node -v
 // // // Here, we are getting the output on TERMINAL :- v23.8.0
-console.log("Shiva Chouhan");
-// // // Step:-3.) Write the command node app.js
+// console.log("Shiva Chouhan");
+// // // Step:-3.) After writting the above statement i.e., (// console.log("Shiva Chouhan");). Save it first to get the output on TERMINAL. Else, getting the error on TERMINAL.
+// // // Step:-4.) Write the command node app.js
 // // // Here, we are getting the output on TERMINAL :- Shiva Chouhan
 
+
+////******************************************************************************************** */
+
+
+// global.console.log("Hemendra Pratap Singh Chouhan");
+// // // Here, we are getting the output on TERMINAL :- Hemendra Pratap Singh Chouhan
+
+
+////******************************************************************************************** */
+
+
+// globalThis.console.log("Mohammad Umar Khan");
+// // // Here, we are getting the output on TERMINAL :- Mohammad Umar Khan
+
+
+////******************************************************************************************** */
+
+
+// console.log(module);
+// // // Here, we are getting the output on TERMINAL :- 
+// /**
+//  * 
+//  * {
+//   id: '.',
+//   path: 'C:\\Users\\vozo computer\\Desktop\\Node-JS\\001--NodeJS_Secrets',
+//   exports: {},
+//   filename: 'C:\\Users\\vozo computer\\Desktop\\Node-JS\\001--NodeJS_Secrets\\app.js',
+//   loaded: false,
+//   children: [],
+//   paths: [
+//     'C:\\Users\\vozo computer\\Desktop\\Node-JS\\001--NodeJS_Secrets\\node_modules',
+//     'C:\\Users\\vozo computer\\Desktop\\Node-JS\\node_modules',
+//     'C:\\Users\\vozo computer\\Desktop\\node_modules',
+//     'C:\\Users\\vozo computer\\node_modules',
+//     'C:\\Users\\node_modules',
+//     'C:\\node_modules'
+//   ],
+//   [Symbol(kIsMainSymbol)]: true,
+//   [Symbol(kIsCachedByESMLoader)]: false,
+//   [Symbol(kURL)]: undefined,
+//   [Symbol(kFormat)]: undefined,
+//   [Symbol(kIsExecuting)]: true
+// }
+//  * 
+//  * 
+//  */
+
+
+////******************************************************************************************** */
+
+
+// global.console.log(module);
+// // // Here, we are getting the output on TERMINAL :- 
+// /**
+//  * 
+//  * {
+//   id: '.',
+//   path: 'C:\\Users\\vozo computer\\Desktop\\Node-JS\\001--NodeJS_Secrets',
+//   exports: {},
+//   filename: 'C:\\Users\\vozo computer\\Desktop\\Node-JS\\001--NodeJS_Secrets\\app.js',
+//   loaded: false,
+//   children: [],
+//   paths: [
+//     'C:\\Users\\vozo computer\\Desktop\\Node-JS\\001--NodeJS_Secrets\\node_modules',
+//     'C:\\Users\\vozo computer\\Desktop\\Node-JS\\node_modules',
+//     'C:\\Users\\vozo computer\\Desktop\\node_modules',
+//     'C:\\Users\\vozo computer\\node_modules',
+//     'C:\\Users\\node_modules',
+//     'C:\\node_modules'
+//   ],
+//   [Symbol(kIsMainSymbol)]: true,
+//   [Symbol(kIsCachedByESMLoader)]: false,
+//   [Symbol(kURL)]: undefined,
+//   [Symbol(kFormat)]: undefined,
+//   [Symbol(kIsExecuting)]: true
+// }
+//  * 
+//  * 
+//  * 
+//  */
+
+
+
+
+////******************************************************************************************** */
+
+
+
+// globalThis.console.log(module);
+// // // Here, we are getting the output on TERMINAL :- 
+// /**
+//  * 
+//  * 
+//  * {
+//   id: '.',
+//   path: 'C:\\Users\\vozo computer\\Desktop\\Node-JS\\001--NodeJS_Secrets',
+//   exports: {},
+//   filename: 'C:\\Users\\vozo computer\\Desktop\\Node-JS\\001--NodeJS_Secrets\\app.js',
+//   loaded: false,
+//   children: [],
+//   paths: [
+//     'C:\\Users\\vozo computer\\Desktop\\Node-JS\\001--NodeJS_Secrets\\node_modules',  
+//     'C:\\Users\\vozo computer\\Desktop\\Node-JS\\node_modules',
+//     'C:\\Users\\vozo computer\\Desktop\\node_modules',
+//     'C:\\Users\\vozo computer\\node_modules',
+//     'C:\\Users\\node_modules',
+//     'C:\\node_modules'
+//   ],
+//   [Symbol(kIsMainSymbol)]: true,
+//   [Symbol(kIsCachedByESMLoader)]: false,
+//   [Symbol(kURL)]: undefined,
+//   [Symbol(kFormat)]: undefined,
+//   [Symbol(kIsExecuting)]: true
+// }
+//  * 
+//  * 
+//  * 
+//  */
+
+
+// ////******************************************************************************************** */
+
+
+globalThis.console.log("Varun Sharma");
+// // // Here, we are getting the output on TERMINAL :- Varun Sharma
+
+
+// ////******************************************************************************************** */
